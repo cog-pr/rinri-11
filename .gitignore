@@ -1,0 +1,11 @@
+# 講義資料（著作物）はリポジトリに含めない
+*.pdf
+
+node_modules/
+dist/
+.wrangler/
+.dev.vars*
+
+# OS
+.DS_Store
+Thumbs.db
