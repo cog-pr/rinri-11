@@ -1,0 +1,10 @@
+{
+  "name": "技術者倫理 試験対策",
+  "short_name": "技術者倫理",
+  "lang": "ja",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f5f1",
+  "theme_color": "#2f55c9",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
